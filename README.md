@@ -85,15 +85,15 @@ Ruido blanco · Ruido marrón · Ruido rosa · Ventilador
 - **SwiftData** — Persistencia de mezclas y favoritos
 - **iOS 17+** — Sin dependencias externas
 
-## 📅 Roadmap
+## Roadmap
 
-- [x] Concepto y diseño de marca
-- [x] Documentación y arquitectura
-- [ ] MVP con reproducción básica
-- [ ] Mini player y full player
-- [ ] Mezclas personalizadas
+- [x] Brand concept and design system
+- [x] Documentation and architecture
+- [x] MVP with basic playback (White/Brown/Pink noise)
+- [ ] Mini player and full player polish
+- [ ] Custom sound mixes
 - [ ] TestFlight beta
-- [ ] Lanzamiento en App Store
+- [ ] App Store launch
 
 ## 👤 Autor
 
