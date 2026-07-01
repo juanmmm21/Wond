@@ -12,32 +12,35 @@
 </p>
 
 <p align="center">
-  <strong>🚧 En desarrollo — Próximamente en App Store</strong>
+  <strong>🚧 Pre-launch — Próximamente en App Store</strong>
 </p>
 
 ---
 
 ## ✨ Qué es Wond
 
-Wond es una app de sonidos ambientales para iPhone con una experiencia inspirada en Spotify: una biblioteca curada de sonidos predefinidos, reproducción instantánea y una interfaz oscura y minimalista que invita a quedarse.
+Wond es una app de sonidos ambientales para iPhone con una experiencia inspirada en Spotify: biblioteca curada, reproducción instantánea y una interfaz oscura y minimalista.
 
-No necesitas crear cuentas, configurar nada ni navegar menús interminables. Abres Wond, eliges un sonido, y te acompaña.
+No necesitas crear cuentas ni configurar nada. Abres Wond, eliges un sonido, y te acompaña.
 
 ## 🎧 Características
 
 | Feature | Descripción |
 |---------|-------------|
-| **Biblioteca curada** | Sonidos seleccionados: lluvia, océano, bosque, café, ruido blanco y más |
-| **Reproducción instantánea** | Un toque para empezar. Mini player persistente al estilo Spotify |
-| **Mezclas personalizadas** | Combina hasta 3 sonidos simultáneos con volumen independiente |
-| **Timer de apagado** | Duérmete sin preocuparte — el audio se detiene solo |
-| **Favoritos** | Acceso rápido a tus sonidos preferidos |
-| **Background audio** | Sigue sonando con la pantalla apagada o en otras apps |
-| **Control Center** | Controles desde la pantalla de bloqueo y el centro de control |
+| **Biblioteca curada** | 21 sonidos: lluvia, océano, bosque, café, ruido blanco y más |
+| **Reproducción instantánea** | Un toque para empezar. Mini player persistente |
+| **Mezclas personalizadas** | Combina hasta 8 sonidos con volumen independiente |
+| **Mixes sugeridos** | Presets listos: Rainy Night, Deep Focus, Campfire |
+| **Timer de apagado** | Fade out suave antes de detener el audio |
+| **Favoritos** | Acceso rápido a sonidos y mixes preferidos |
+| **Background audio** | Sigue sonando con la pantalla apagada |
+| **Control Center** | Controles desde la pantalla de bloqueo |
+| **Multidioma** | Inglés, español, francés, alemán, portugués y japonés |
+| **Sin tracking** | Sin cuentas, sin analítica, sin publicidad |
 
 ## 🎨 Diseño
 
-Wond apuesta por la calma visual. Fondos oscuros con gradientes suaves y textura grainy, inspirados en la naturaleza nocturna.
+Fondos oscuros con gradientes suaves y textura grainy, inspirados en la naturaleza nocturna.
 
 <p align="center">
   <img src="assets/ideaColores.jpeg" alt="Referencia visual Wond" width="600">
@@ -58,46 +61,48 @@ Wond apuesta por la calma visual. Fondos oscuros con gradientes suaves y textura
 ## 🔊 Catálogo de sonidos (v1)
 
 ### 🌿 Naturaleza
-Lluvia · Truenos · Bosque · Océano · Viento · Río
+Lluvia · Océano · Bosque · Truenos · Tormenta · Viento · Río · Pájaros · Grillas · Olas · Atardecer
 
 ### ☕ Ambiente
-Café · Ciudad nocturna · Biblioteca · Chimenea
+Café · Chimenea · Biblioteca · Ciudad nocturna · Tren · Lluvia en tienda de campaña
 
 ### 〰️ Ruido
 Ruido blanco · Ruido marrón · Ruido rosa · Ventilador
 
 ## 📱 Capturas de pantalla
 
-> *Próximamente — se añadirán durante el desarrollo*
-
-<!-- 
-<p align="center">
-  <img src="assets/screenshots/home.png" alt="Home" width="250">
-  <img src="assets/screenshots/player.png" alt="Player" width="250">
-  <img src="assets/screenshots/mix.png" alt="Mix" width="250">
-</p>
--->
+> *Próximamente — se añadirán antes del lanzamiento en App Store*
 
 ## 🛠 Tecnología
 
 - **SwiftUI** — Interfaz moderna y declarativa
 - **AVFoundation** — Reproducción de audio nativa
-- **SwiftData** — Persistencia de mezclas y favoritos
+- **SwiftData** — Persistencia de mezclas
 - **iOS 17+** — Sin dependencias externas
 
 ## Roadmap
 
 - [x] Brand concept and design system
-- [x] Documentation and architecture
-- [x] MVP with basic playback (White/Brown/Pink noise)
-- [ ] Mini player and full player polish
-- [ ] Custom sound mixes
+- [x] MVP: playback, mini player, full player
+- [x] Custom sound mixes and favorites
+- [x] 21 bundled sounds + localization (6 languages)
+- [x] v1.0 polish: fade, presets, accessibility, privacy
 - [ ] TestFlight beta
 - [ ] App Store launch
+
+## 🔒 Privacidad
+
+Wond no recopila datos personales. Política completa:
+
+**[docs/PRIVACY_POLICY.md](docs/PRIVACY_POLICY.md)**
 
 ## 👤 Autor
 
 **Juan** — [@juanmmm21](https://github.com/juanmmm21)
+
+## 📬 Contacto
+
+**mrtzcvscontact@gmail.com**
 
 ## 📄 Licencia
 
