@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <strong>🚧 Pre-launch — Coming soon to the App Store</strong>
+  <strong>🚧 Now on the App Store</strong>
 </p>
 
 ---
