@@ -87,8 +87,8 @@ White noise · Brown noise · Pink noise · Fan
 - [x] Custom sound mixes and favorites
 - [x] 21 bundled sounds + localization (6 languages)
 - [x] v1.0 polish: fade, presets, accessibility, privacy
-- [ ] TestFlight beta
-- [ ] App Store launch
+- [x] TestFlight beta
+- [x] App Store launch
 
 ## 🔒 Privacy
 
