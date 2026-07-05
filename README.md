@@ -4,81 +4,81 @@
   <img src="assets/icon.jpg" alt="Wond Logo" width="120" height="120" style="border-radius: 24px;">
 </p>
 
-<h3 align="center">Sonidos que te acompañan</h3>
+<h3 align="center">Sounds that keep you company</h3>
 
 <p align="center">
-  App iOS de ruido blanco y sonidos ambientales.<br>
-  Minimalista, bella y diseñada para ayudarte a dormir, concentrarte y relajarte.
+  iOS white noise and ambient sounds app.<br>
+  Minimalist, beautiful, and designed to help you sleep, focus, and relax.
 </p>
 
 <p align="center">
-  <strong>🚧 Pre-launch — Próximamente en App Store</strong>
+  <strong>🚧 Pre-launch — Coming soon to the App Store</strong>
 </p>
 
 ---
 
-## ✨ Qué es Wond
+## ✨ What Wond is
 
-Wond es una app de sonidos ambientales para iPhone con una experiencia inspirada en Spotify: biblioteca curada, reproducción instantánea y una interfaz oscura y minimalista.
+Wond is an ambient sounds app for iPhone with a Spotify-inspired experience: a curated library, instant playback, and a dark, minimalist interface.
 
-No necesitas crear cuentas ni configurar nada. Abres Wond, eliges un sonido, y te acompaña.
+You don't need to create accounts or set anything up. Open Wond, pick a sound, and it keeps you company.
 
-## 🎧 Características
+## 🎧 Features
 
-| Feature | Descripción |
+| Feature | Description |
 |---------|-------------|
-| **Biblioteca curada** | 21 sonidos: lluvia, océano, bosque, café, ruido blanco y más |
-| **Reproducción instantánea** | Un toque para empezar. Mini player persistente |
-| **Mezclas personalizadas** | Combina hasta 8 sonidos con volumen independiente |
-| **Mixes sugeridos** | Presets listos: Rainy Night, Deep Focus, Campfire |
-| **Timer de apagado** | Fade out suave antes de detener el audio |
-| **Favoritos** | Acceso rápido a sonidos y mixes preferidos |
-| **Background audio** | Sigue sonando con la pantalla apagada |
-| **Control Center** | Controles desde la pantalla de bloqueo |
-| **Multidioma** | Inglés, español, francés, alemán, portugués y japonés |
-| **Sin tracking** | Sin cuentas, sin analítica, sin publicidad |
+| **Curated library** | 21 sounds: rain, ocean, forest, café, white noise, and more |
+| **Instant playback** | One tap to start. Persistent mini player |
+| **Custom mixes** | Combine up to 8 sounds with independent volume |
+| **Suggested mixes** | Ready-made presets: Rainy Night, Deep Focus, Campfire |
+| **Sleep timer** | Smooth fade out before stopping the audio |
+| **Favorites** | Quick access to preferred sounds and mixes |
+| **Background audio** | Keeps playing with the screen off |
+| **Control Center** | Controls from the lock screen |
+| **Multilingual** | English, Spanish, French, German, Portuguese, and Japanese |
+| **No tracking** | No accounts, no analytics, no ads |
 
-## 🎨 Diseño
+## 🎨 Design
 
-Fondos oscuros con gradientes suaves y textura grainy, inspirados en la naturaleza nocturna.
-
-<p align="center">
-  <img src="assets/ideaColores.jpeg" alt="Referencia visual Wond" width="600">
-</p>
-
-### Paleta de colores
+Dark backgrounds with soft gradients and grainy texture, inspired by nighttime nature.
 
 <p align="center">
-  <img src="assets/paleta.jpeg" alt="Paleta de colores Wond" width="400">
+  <img src="assets/ideaColores.jpeg" alt="Wond visual reference" width="600">
 </p>
 
-| Color | Hex | Uso |
+### Color palette
+
+<p align="center">
+  <img src="assets/paleta.jpeg" alt="Wond color palette" width="400">
+</p>
+
+| Color | Hex | Use |
 |-------|-----|-----|
-| **Black Glaze** | `#061611` | Fondos, atmósfera nocturna |
-| **Eucalyptus Green** | `#1d665d` | Acentos, botones |
-| **Pistachio** | `#b2d98b` | Highlights, logo, estados activos |
+| **Black Glaze** | `#061611` | Backgrounds, nighttime atmosphere |
+| **Eucalyptus Green** | `#1d665d` | Accents, buttons |
+| **Pistachio** | `#b2d98b` | Highlights, logo, active states |
 
-## 🔊 Catálogo de sonidos (v1)
+## 🔊 Sound catalog (v1)
 
-### 🌿 Naturaleza
-Lluvia · Océano · Bosque · Truenos · Tormenta · Viento · Río · Pájaros · Grillas · Olas · Atardecer
+### 🌿 Nature
+Rain · Ocean · Forest · Thunder · Storm · Wind · River · Birds · Crickets · Waves · Sunset
 
-### ☕ Ambiente
-Café · Chimenea · Biblioteca · Ciudad nocturna · Tren · Lluvia en tienda de campaña
+### ☕ Ambient
+Café · Fireplace · Library · Night city · Train · Rain on a tent
 
-### 〰️ Ruido
-Ruido blanco · Ruido marrón · Ruido rosa · Ventilador
+### 〰️ Noise
+White noise · Brown noise · Pink noise · Fan
 
-## 📱 Capturas de pantalla
+## 📱 Screenshots
 
-> *Próximamente — se añadirán antes del lanzamiento en App Store*
+> *Coming soon — will be added before the App Store launch*
 
-## 🛠 Tecnología
+## 🛠 Technology
 
-- **SwiftUI** — Interfaz moderna y declarativa
-- **AVFoundation** — Reproducción de audio nativa
-- **SwiftData** — Persistencia de mezclas
-- **iOS 17+** — Sin dependencias externas
+- **SwiftUI** — Modern, declarative interface
+- **AVFoundation** — Native audio playback
+- **SwiftData** — Mix persistence
+- **iOS 17+** — No external dependencies
 
 ## Roadmap
 
@@ -90,26 +90,26 @@ Ruido blanco · Ruido marrón · Ruido rosa · Ventilador
 - [ ] TestFlight beta
 - [ ] App Store launch
 
-## 🔒 Privacidad
+## 🔒 Privacy
 
-Wond no recopila datos personales. Política completa:
+Wond does not collect personal data. Full policy:
 
 **[docs/PRIVACY_POLICY.md](docs/PRIVACY_POLICY.md)**
 
-## 👤 Autor
+## 👤 Author
 
 **Juan** — [@juanmmm21](https://github.com/juanmmm21)
 
-## 📬 Contacto
+## 📬 Contact
 
 **mrtzcvscontact@gmail.com**
 
-## 📄 Licencia
+## 📄 License
 
-Todos los derechos reservados. Wond es un proyecto privado en desarrollo.
+All rights reserved. Wond is a private project in development.
 
 ---
 
 <p align="center">
-  <sub>Hecho con 💚 para quienes buscan un momento de calma</sub>
+  <sub>Made with 💚 for those seeking a moment of calm</sub>
 </p>
